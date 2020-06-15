@@ -40,7 +40,7 @@ subtitle = "clientes"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["10em", "100px", "10em", "100px"]
+  # padding = ["10em", "100px", "10em", "100px"]
 
 [advanced]
  # Custom CSS. 
