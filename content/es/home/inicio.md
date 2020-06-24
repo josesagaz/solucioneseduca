@@ -35,6 +35,6 @@ hero_media = "education-logo.png"
 
 +++
 
-Somos un equipo inter-disciplario de profesionales que coincidimos en la firme idea de que nuestro trabajo debe aportar al bien común. Integramos disciplinas exactas como **sistemas** y con otras más humanas como **comunicación**, **pedagogía** y **administración**.
+Somos un equipo inter-disciplario de profesionales que coinciden en la firme idea de que nuestro trabajo debe aportar al bien común. Integramos disciplinas exactas como **sistemas** y con otras más humanas como **comunicación**, **pedagogía** y **administración**.
 
 Facilitamos *herramientas innovadoras* para el ejercicio de la práctica educativa con el objeto de mejorar los procesos de aprendizaje presentes en las instituciones.
